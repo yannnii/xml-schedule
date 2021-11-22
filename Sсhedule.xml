@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="schema.xsd">
+	<title>Расписание занятий группы ИФСТ-31</title>
+	<lessons-list>
+		<name-week>Нечетная неделя</name-week>
+		<day>
+			<name-day>Понедельник</name-day>
+			<lesson>
+				<format>Дистанционно</format>
+				<time>08:30:00</time>
+				<name-lesson>Элективные курсы по физической культуре</name-lesson>
+				<teacher>
+					<name-teacher>Зуева И.А.</name-teacher>
+					<audience>75</audience>
+				</teacher>
+			</lesson>
+			<lesson>
+				<format>Дистанционно</format>
+				<time>10:10:00</time>
+				<name-lesson>Иностранный язык для профессионального общения</name-lesson>
+				<teacher>
+					<name-teacher>Бахарева О.В.</name-teacher>
+					<audience>525</audience>
+				</teacher>
+				<teacher>
+					<name-teacher>Погосян Ж.Р.</name-teacher>
+					<audience>433</audience>
+				</teacher>
+				<teacher>
+					<name-teacher>Галактионова И.Е.</name-teacher>
+					<audience>423</audience>
+				</teacher>
+			</lesson>
+		</day>
+		<day>
+			<name-day>Вторник</name-day>
+			<lesson>
+				<format>Очно</format>
+				<time>10:10:00</time>
+				<name-lesson>М/м технологии</name-lesson>
+				<teacher>
+					<name-teacher>Виштак Н.М.</name-teacher>
+					<audience>ВЦ</audience>
+				</teacher>
+			</lesson>
+			<lesson>
+				<format>Очно</format>
+				<time>12:10:00</time>
+				<name-lesson>Моделирование процессов и систем</name-lesson>
+				<teacher>
+					<name-teacher>Очкур Г.В.</name-teacher>
+					<audience>102</audience>
+				</teacher>
+			</lesson>
+		</day>
+		<day>
+			<name-day>Среда</name-day>
+			<lesson>
+				<format>Очно</format>
+				<time>08:30:00</time>
+				<name-lesson>Технологии создания web-ресурсов</name-lesson>
+				<teacher>
+					<name-teacher>Мотков А.Г.</name-teacher>
+					<audience>102</audience>
+				</teacher>
+			</lesson>
+			<lesson>
+				<format>Очно</format>
+				<time>10:10:00</time>
+				<name-lesson>Технологии создания web-ресурсов</name-lesson>
+				<teacher>
+					<name-teacher>Мотков А.Г.</name-teacher>
+					<audience>102</audience>
+				</teacher>
+			</lesson>
+		</day>
+		<day>
+			<name-day>Четверг</name-day>
+			<lesson>
+				<format>Очно</format>
+				<time>08:30:00</time>
+				<name-lesson>Современные технологии интернет-программирования</name-lesson>
+				<teacher>
+					<name-teacher>Ефремов Р.В.</name-teacher>
+					<audience>ВЦ</audience>
+				</teacher>
+			</lesson>
+			<lesson>
+				<format>Очно</format>
+				<time>10:10:00</time>
+				<name-lesson>Философия науки и техники</name-lesson>
+				<teacher>
+					<name-teacher>Михайлова О.Н.</name-teacher>
+					<audience>420</audience>
+				</teacher>
+			</lesson>
+			<lesson>
+				<format>Очно</format>
+				<time>12:10:00</time>
+				<name-lesson>Архитектура информационных систем</name-lesson>
+				<teacher>
+					<name-teacher>Михеев И.В.</name-teacher>
+					<audience>ВЦ</audience>
+				</teacher>
+			</lesson>
+		</day>
+		<day>
+			<name-day>Пятница</name-day>
+			<lesson>
+				<format>Очно</format>
+				<time>08:30:00</time>
+				<name-lesson>Современные технологии управления базами данных</name-lesson>
+				<teacher>
+					<name-teacher>Штырова И.А.</name-teacher>
+					<audience>102</audience>
+				</teacher>
+			</lesson>
+			<lesson>
+				<format>Очно</format>
+				<time>10:10:00</time>
+				<name-lesson>Элективные курсы по физической культуре</name-lesson>
+				<teacher>
+					<name-teacher>Зуева И.А.</name-teacher>
+					<audience>спортивный зал</audience>
+				</teacher>
+			</lesson>
+		</day>
+		<day>
+			<name-day>Суббота</name-day>
+			<lesson>
+				<format>Дистанционно</format>
+				<time>08:30:00</time>
+				<name-lesson>Философия науки и техники</name-lesson>
+				<teacher>
+					<name-teacher>Михайлова О.Н.</name-teacher>
+					<audience></audience>
+				</teacher>
+			</lesson>
+			<lesson>
+				<format>Очно</format>
+				<time>10:10:00</time>
+				<name-lesson>Современные технологии ООП</name-lesson>
+				<teacher>
+					<name-teacher>Бельмесов П.И.</name-teacher>
+					<audience>ВЦ</audience>
+				</teacher>
+			</lesson>
+		</day>
+	</lessons-list>
+	<lessons-list>
+		<name-week>Четная неделя</name-week>
+		<day>
+			<name-day>Понедельник</name-day>
+			<lesson>
+				<format>Дистанционно</format>
+				<time>08:30:00</time>
+				<name-lesson>Элективные курсы по физической культуре</name-lesson>
+				<teacher>
+					<name-teacher>Зуева И.А.</name-teacher>
+					<audience>75</audience>
+				</teacher>
+			</lesson>
+			<lesson>
+				<format>Дистанционно</format>
+				<time>10:10:00</time>
+				<name-lesson>Иностранный язык для профессионального общения</name-lesson>
+				<teacher>
+					<name-teacher>Бахарева О.В.</name-teacher>
+					<audience>525</audience>
+				</teacher>
+				<teacher>
+					<name-teacher>Погосян Ж.Р.</name-teacher>
+					<audience>433</audience>
+				</teacher>
+				<teacher>
+					<name-teacher>Галактионова И.Е.</name-teacher>
+					<audience>423</audience>
+				</teacher>
+			</lesson>
+		</day>
+		<day>
+			<name-day>Вторник</name-day>
+			<lesson>
+				<format>Очно</format>
+				<time>10:10:00</time>
+				<name-lesson>М/м технологии</name-lesson>
+				<teacher>
+					<name-teacher>Виштак Н.М.</name-teacher>
+					<audience>ВЦ</audience>
+				</teacher>
+			</lesson>
+			<lesson>
+				<format>Очно</format>
+				<time>12:10:00</time>
+				<name-lesson>Моделирование процессов и систем</name-lesson>
+				<teacher>
+				<name-teacher>Очкур Г.В.</name-teacher>
+				<audience>102</audience>
+				</teacher>
+			</lesson>
+		</day>
+		<day>
+			<name-day>Среда</name-day>
+			<lesson>
+				<format>Очно</format>
+				<time>08:30:00</time>
+				<name-lesson>Технологии создания web-ресурсов</name-lesson>
+				<teacher>
+					<name-teacher>Мотков А.Г.</name-teacher>
+					<audience>102</audience>
+				</teacher>
+			</lesson>
+			<lesson>
+				<format>Очно</format>
+				<time>10:10:00</time>
+				<name-lesson>Архитектура информационных систем</name-lesson>
+				<teacher>
+					<name-teacher>Виштак О.В.</name-teacher>
+					<audience>102</audience>
+				</teacher>
+			</lesson>
+		</day>
+		<day>
+			<name-day>Четверг</name-day>
+			<lesson>
+				<format>Очно</format>
+				<time>08:30:00</time>
+				<name-lesson>Современные технологии интернет-программирования</name-lesson>
+				<teacher>
+					<name-teacher>Ефремов Р.В.</name-teacher>
+					<audience>ВЦ</audience>
+				</teacher>
+			</lesson>
+			<lesson>
+				<format>Очно</format>
+				<time>10:10:00</time>
+				<name-lesson>Архитектура информационных систем</name-lesson>
+				<teacher>
+					<name-teacher>Михеев И.В.</name-teacher>
+					<audience>ВЦ</audience>
+				</teacher>
+			</lesson>
+			<lesson>
+				<format>Очно</format>
+				<time>12:10:00</time>
+				<name-lesson>Архитектура информационных систем</name-lesson>
+				<teacher>
+					<name-teacher>Михеев И.В.</name-teacher>
+					<audience>ВЦ</audience>
+				</teacher>
+			</lesson>
+		</day>
+		<day>
+			<name-day>Пятница</name-day>
+			<lesson>
+				<format>Очно</format>
+				<time>08:30:00</time>
+				<name-lesson>Современные технологии управления базами данных</name-lesson>
+				<teacher>
+					<name-teacher>Штырова И.А.</name-teacher>
+					<audience>102</audience>
+				</teacher>
+			</lesson>
+			<lesson>
+				<format>Очно</format>
+				<time>10:10:00</time>
+				<name-lesson>Современные технологии управления базами данных</name-lesson>
+				<teacher>
+					<name-teacher>Штырова И.А.</name-teacher>
+					<audience>102</audience>
+				</teacher>
+			</lesson>
+		</day>
+		<day>
+			<name-day>Суббота</name-day>
+			<lesson>
+				<format>Дистанционно</format>
+				<time>08:30:00</time>
+				<name-lesson>Современные технологии ООП</name-lesson>
+				<teacher>
+					<name-teacher>Бельмесов П.И.</name-teacher>
+					<audience>ВЦ</audience>
+				</teacher>
+			</lesson>
+			<lesson>
+				<format>Очно</format>
+				<time>10:10:00</time>
+				<name-lesson>Современные технологии ООП</name-lesson>
+				<teacher>
+					<name-teacher>Бельмесов П.И.</name-teacher>
+					<audience>ВЦ</audience>
+				</teacher>
+			</lesson>
+		</day>
+	</lessons-list>
+</schedule>

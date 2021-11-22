@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="schedule">
+		<xs:complexType>
+			<xs:sequence>
+			<xs:element name="title" type="xs:string"/>
+			<xs:element name="lessons-list" maxOccurs="2">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="name-week" type="xs:string"/>
+						<xs:element name="day" maxOccurs="6">
+							<xs:complexType>
+								<xs:sequence>
+								<xs:element name="name-day" type="xs:string"/>
+								<xs:element name="lesson" maxOccurs="4">
+									<xs:complexType>
+										<xs:sequence>
+											<xs:element name="format" type="xs:string"/>
+											<xs:element name="time" type="xs:time"/>
+											<xs:element name="name-lesson" type="xs:string"/>
+											<xs:element name="teacher" maxOccurs="4">
+												<xs:complexType>
+													<xs:sequence>
+														<xs:element name="name-teacher" type="xs:string"/>
+														<xs:element name="audience" type="xs:string"/>
+													</xs:sequence>
+												</xs:complexType>
+											</xs:element>
+										</xs:sequence>
+									</xs:complexType>
+								</xs:element>
+								</xs:sequence>
+							</xs:complexType>
+						</xs:element>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
